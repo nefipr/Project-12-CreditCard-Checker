@@ -8,4 +8,6 @@ but you’ll be optimizing the verification process using your knowledge of func
 
 Unlike the other clerks, you can spend the rest of your time relaxing!
 
+To find out if a credit card number is valid or not, use the Luhn algorithm. Generally speaking, an algorithm is a series of steps that solve a problem — the Luhn algorithm is a series of mathematical calculations used to validate certain identification numbers, e.g. credit card numbers.
+
 [Project CodeAcademy]([url](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscp-22-javascript-syntax-part-ii-c8ddbace-1463-4797-ae12-503c7b0f9552/modules/wdcp-22-credit-card-checker-b1138dff-8fa2-426b-b943-74a5c58d2455/projects/credit-card-checker)https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscp-22-javascript-syntax-part-ii-c8ddbace-1463-4797-ae12-503c7b0f9552/modules/wdcp-22-credit-card-checker-b1138dff-8fa2-426b-b943-74a5c58d2455/projects/credit-card-checker)
